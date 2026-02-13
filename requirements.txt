@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+librosa
+pydub
+gdown
+xgboost
+tensorflow
+noisereduce
+soundfile
